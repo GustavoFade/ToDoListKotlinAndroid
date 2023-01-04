@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">TodoList</string>
+    <string name="second_fragment_label">Lista de tarefas</string>
+    <string name="next">Next</string>
+    <string name="voltar">Voltar</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="criar_tarefa">Criar tarefa</string>
+    <string name="label_tarefa">Tarefa: </string>
+    <string name="lista_tarefas">Lista de tarefas</string>
+    <string name="update_Tarefa">Atualizar</string>
+    <string name="delete_tarefa">Deletar</string>
+</resources>
